@@ -25,7 +25,7 @@ const About = () => {
                     web developer with a knack for crafting visually stunning and highly functional
                     websites. Combining creativity and technical expertise. I
                     transform your vision into digital masterpiece that excels
-                    in both appearance and performance. I currently don&apos;t currently
+                    in both appearance and performance. I currently don&apos;t
                     have proper picture to be displayed here. So, check out
                     my favorite character!
                     </p>
