@@ -25,7 +25,9 @@ const About = () => {
                     web developer with a knack for crafting visually stunning and highly functional
                     websites. Combining creativity and technical expertise. I
                     transform your vision into digital masterpiece that excels
-                    in both appearance and performance.
+                    in both appearance and performance. I currently don&apos;t currently
+                    have proper picture to be displayed here. So, check out
+                    my favorite character!
                     </p>
                     <div className="flex flex-wrap items-center gap-4 md:gap-7">
                         {aboutItems.map(({ label, number }, key) => (

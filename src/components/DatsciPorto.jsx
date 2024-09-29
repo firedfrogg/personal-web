@@ -77,7 +77,7 @@ const DatsciPorto = () => {
     });
 
     return (
-        <section className="section overflow-hidden" id="portos">
+        <section className="section overflow-hidden" id="datsciskill">
             <div className="container">
                 <h2 className="headline-2 mb-8 reveal-up">
                     Data Science Portfolios

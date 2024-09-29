@@ -59,6 +59,26 @@ const skillItem = [
         label: 'Jupyter',
         desc: 'Interactive Computing Platform'
     },
+    {
+        imgSrc: '/images/pandas.svg',
+        label: 'Pandas',
+        desc: 'Working With Datasets'
+    },
+    {
+        imgSrc: '/images/postman.svg',
+        label: 'Postman',
+        desc: 'API Testing'
+    },
+    {
+        imgSrc: '/images/wireshark.svg',
+        label: 'Wireshark',
+        desc: 'Network Tracing'
+    },
+    {
+        imgSrc: '/images/mysql.svg',
+        label: 'MySQL',
+        desc: 'Database'
+    },
 ];
 
 const Skill = () => {
