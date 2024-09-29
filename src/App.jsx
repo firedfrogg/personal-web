@@ -26,11 +26,11 @@ gsap.registerPlugin(useGSAP, ScrollTrigger);
 import About from "./components/About";
 import Contact from "./components/Contact";
 import DatsciPorto from './components/DatsciPorto';
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Skill from "./components/Skill";
 import Work from "./components/Work";
-import Footer from "./components/footer";
 
 
 const App = () => {
