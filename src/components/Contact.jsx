@@ -36,8 +36,8 @@ const Contact = () => {
                         Hit me up down below! ... or beside?
                     </h2>
                     <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] lg:max-w-[30ch]">
-                        Reach out today to discuss your project needs and
-                        start collaborating on something amazing!
+                        Connect with me today and let&apos;s explore exciting opportunities together!
+
                     </p>
 
                     <div className="flex items-center gap-2 mt-auto">

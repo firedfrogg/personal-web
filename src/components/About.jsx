@@ -27,7 +27,7 @@ const About = () => {
                     transform your vision into digital masterpiece that excels
                     in both appearance and performance. I currently don&apos;t
                     have proper picture to be displayed here. So, check out
-                    my favorite character!
+                    my favorite character above!
                     </p>
                     <div className="flex flex-wrap items-center gap-4 md:gap-7">
                         {aboutItems.map(({ label, number }, key) => (
