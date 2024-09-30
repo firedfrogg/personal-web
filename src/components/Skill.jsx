@@ -75,8 +75,8 @@ const skillItem = [
         desc: 'Network Tracing'
     },
     {
-        imgSrc: '/images/mysql.svg',
-        label: 'MySQL',
+        imgSrc: '/images/postgresql.svg',
+        label: 'PostgreSQL',
         desc: 'Database'
     },
 ];
